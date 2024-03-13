@@ -20,15 +20,14 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Link de Referencia
-https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view
-
+https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 ## Resultados
 
 ### Pagina Inicial
-![image](https://github.com/JaquelineGalindoHuitron/Rutas-6J-0478/assets/143548375/46a21249-1920-4030-a8b1-f7861adfd8e3)
+![image](https://github.com/JaquelineGalindoHuitron/p14-Rutas-6J-0478/assets/143548375/cd0369ed-5a82-4a0d-8d35-11ad2538d237)
 
 ### Pagina 1
-![image](https://github.com/JaquelineGalindoHuitron/Rutas-6J-0478/assets/143548375/a3598212-17c1-449b-b141-992efb05023f)
+![image](https://github.com/JaquelineGalindoHuitron/p14-Rutas-6J-0478/assets/143548375/47d64785-7826-4764-80a1-e3fd68546286)
 
 ### Pagina 2
-![image](https://github.com/JaquelineGalindoHuitron/Rutas-6J-0478/assets/143548375/02945464-0343-4c51-99b7-82e3e6e49a10)
+![image](https://github.com/JaquelineGalindoHuitron/p14-Rutas-6J-0478/assets/143548375/c05f8737-b83b-4992-afe5-6873f555a4ef)
